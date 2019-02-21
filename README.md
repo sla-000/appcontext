@@ -1,0 +1,1 @@
+Application context stored as weak reference and available everywhere in a program via singletone
